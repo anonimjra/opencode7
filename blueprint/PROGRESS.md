@@ -16,10 +16,10 @@ Lacak status pengerjaan setiap task di bawah ini. Ubah `[ ]` menjadi `[x]` seger
 - [x] `T008`: Store Global Zustand Reaktif & LocalStorage Synchronizer
 - [x] `T009`: Sistem Umpan Balik Audio-Visual (Web Audio API Synthesizer & Cyber Toast)
 ### Fase 3: Shell Arsitektur, Command Bar & Navigasi
-- [ ] `T010`: Layout Root Shell & Responsive Canvas Container
-- [ ] `T011`: Sidebar Navigasi Telematika dengan Status Pulse & Jam Zulu UTC
-- [ ] `T012`: Command Palette Global (Ctrl+K Quick Switcher) & Top Bar Action
-- [ ] `T013`: Status Bar Sistem Real-Time & Jam Zulu UTC
+- [x] `T010`: Layout Root Shell & Responsive Canvas Container
+- [x] `T011`: Sidebar Navigasi Telematika dengan Status Pulse & Jam Zulu UTC
+- [x] `T012`: Command Palette Global (Ctrl+K Quick Switcher) & Top Bar Action
+- [x] `T013`: Status Bar Sistem Real-Time & Jam Zulu UTC
 ### Fase 4: Master Control Tower Overview (/)
 - [ ] `T014`: Kartu Metrik Eksekutif KPI dengan Sparkline Recharts
 - [ ] `T015`: Peta Telematika Global Interaktif SVG Berbasis Rute & Radar Pulse

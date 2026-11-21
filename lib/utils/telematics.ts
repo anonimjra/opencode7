@@ -97,7 +97,6 @@ export function arrheniusDegradationFactor(
  */
 export function estimateRemainingShelfLife(
   mkt: number | null,
-  referenceShelfLifeDays = 730,
   referenceCelsius = 5,
 ): number {
   if (mkt === null) return 100;
