@@ -21,13 +21,13 @@ Lacak status pengerjaan setiap task di bawah ini. Ubah `[ ]` menjadi `[x]` seger
 - [x] `T012`: Command Palette Global (Ctrl+K Quick Switcher) & Top Bar Action
 - [x] `T013`: Status Bar Sistem Real-Time & Jam Zulu UTC
 ### Fase 4: Master Control Tower Overview (/)
-- [ ] `T014`: Kartu Metrik Eksekutif KPI dengan Sparkline Recharts
-- [ ] `T015`: Peta Telematika Global Interaktif SVG Berbasis Rute & Radar Pulse
-- [ ] `T016`: Tabel Radar Armada Aktif & Status Kecepatan/Heading Kapal
-- [ ] `T017`: Ticker Umpan Peringatan Kritis & Insiden Operasional Maritim
-- [ ] `T018`: Grafik Recharts Volume Perdagangan Global & Distribusi Modal Angkutan
-- [ ] `T019`: Gauge Indeks Kongesti Pelabuhan & Estimasi Antrean Sandar
-- [ ] `T020`: Assembler Halaman Dashboard Utama Kontrol Tower
+- [x] `T014`: Kartu Metrik Eksekutif KPI dengan Sparkline Recharts
+- [x] `T015`: Peta Telematika Global Interaktif SVG Berbasis Rute & Radar Pulse
+- [x] `T016`: Tabel Radar Armada Aktif & Status Kecepatan/Heading Kapal
+- [x] `T017`: Ticker Umpan Peringatan Kritis & Insiden Operasional Maritim
+- [x] `T018`: Grafik Recharts Volume Perdagangan Global & Distribusi Modal Angkutan
+- [x] `T019`: Gauge Indeks Kongesti Pelabuhan & Estimasi Antrean Sandar
+- [x] `T020`: Assembler Halaman Dashboard Utama Kontrol Tower
 ### Fase 5: Modul Armada & Telematika Kargo (/fleet)
 - [ ] `T021`: Halaman Daftar Armada & Filter Grid Multi-Moda
 - [ ] `T022`: Modal Telemetri Mesin Kapal & Indikator Tekanan Ballast
