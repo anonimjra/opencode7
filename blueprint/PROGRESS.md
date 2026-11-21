@@ -8,7 +8,7 @@ Lacak status pengerjaan setiap task di bawah ini. Ubah `[ ]` menjadi `[x]` seger
 - [x] `T001`: Inisialisasi Proyek Next.js 15, TypeScript Strict & Tooling
 - [x] `T002`: Konfigurasi Tailwind CSS v4, Token Tema Cyber-Industrial & Glow Utilities
 - [x] `T003`: Definisi Tipe TypeScript Global & Kontrak Entitas Logistik
-- [ ] `T004`: Helper Matematika & Algoritma Logistik Maritim
+- [x] `T004`: Helper Matematika & Algoritma Logistik Maritim
 ### Fase 2: Mock Seed Data Skala Penuh & Reaktif State
 - [ ] `T005`: Kompilasi Mock Seed 12 Pelabuhan Strategis Dunia & 20 Armada Multimodal
 - [ ] `T006`: Kompilasi Mock Seed 60+ Pengiriman Internasional & Titik Rute
