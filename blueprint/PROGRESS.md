@@ -60,6 +60,6 @@ Lacak status pengerjaan setiap task di bawah ini. Ubah `[ ]` menjadi `[x]` seger
 - [x] `T044`: Simulator Pengalihan Rute Otonom (Komparasi Cape of Good Hope vs Suez)
 - [x] `T045`: Modal Deklarasi Insiden Darurat & Penyiaran Peringatan Armada
 ### Fase 11: Polish, Static Export, Performance & Audit
-- [ ] `T046`: Halaman Error Boundary, Cyber Radar 404 & Loading Skeleton Global
-- [ ] `T047`: Konfigurasi GitHub Pages Static Export & Penanganan .nojekyll
+- [x] `T046`: Halaman Error Boundary, Cyber Radar 404 & Loading Skeleton Global
+- [x] `T047`: Konfigurasi GitHub Pages Static Export & Penanganan .nojekyll
 - [ ] `T048`: Audit Tipe TypeScript Ketat, Verifikasi Build SSG Total & README.md Utama
