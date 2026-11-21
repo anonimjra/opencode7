@@ -46,10 +46,10 @@ Lacak status pengerjaan setiap task di bawah ini. Ubah `[ ]` menjadi `[x]` seger
 - [x] `T033`: Generator Digital Bill of Lading (BoL) Standar Maritim & Mode Cetak
 - [x] `T034`: Layanan Ekspor Rekap Pengiriman ke File Excel (.xlsx) dengan ExcelJS
 ### Fase 8: Modul IoT Cold-Chain & Sensor Telemetry (/iot-telemetry)
-- [ ] `T035`: Laboratorium Pemantau Suhu Kontainer Reefer Live
-- [ ] `T036`: Grafik Dual-Axis Time-Series Recharts (Suhu °C, Kelembaban %, G-Shock)
-- [ ] `T037`: Kartu Kalkulator Risiko Pembusukan Kargo Farmasi (MKT)
-- [ ] `T038`: Modal Simulator Anomali Suhu & Guncangan Sensor Darurat
+- [x] `T035`: Laboratorium Pemantau Suhu Kontainer Reefer Live
+- [x] `T036`: Grafik Dual-Axis Time-Series Recharts (Suhu °C, Kelembaban %, G-Shock)
+- [x] `T037`: Kartu Kalkulator Risiko Pembusukan Kargo Farmasi (MKT)
+- [x] `T038`: Modal Simulator Anomali Suhu & Guncangan Sensor Darurat
 ### Fase 9: Modul Kalkulator Incoterms, Finansial & Bea Cukai (/customs-finance)
 - [ ] `T039`: Matriks Interaktif 11 Aturan Incoterms 2020 & Pembagian Biaya/Risiko
 - [ ] `T040`: Kalkulator Estimasi Tarif Freight (Ocean Base, BAF, CAF, PSS)
