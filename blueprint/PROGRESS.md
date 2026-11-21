@@ -51,10 +51,10 @@ Lacak status pengerjaan setiap task di bawah ini. Ubah `[ ]` menjadi `[x]` seger
 - [x] `T037`: Kartu Kalkulator Risiko Pembusukan Kargo Farmasi (MKT)
 - [x] `T038`: Modal Simulator Anomali Suhu & Guncangan Sensor Darurat
 ### Fase 9: Modul Kalkulator Incoterms, Finansial & Bea Cukai (/customs-finance)
-- [ ] `T039`: Matriks Interaktif 11 Aturan Incoterms 2020 & Pembagian Biaya/Risiko
-- [ ] `T040`: Kalkulator Estimasi Tarif Freight (Ocean Base, BAF, CAF, PSS)
-- [ ] `T041`: Kalkulator Denda Penyimpanan Pelabuhan (Demurrage & Detention Tiers)
-- [ ] `T042`: Mesin Skoring Risiko Kepabeanan & Estimator Jalur Bea Cukai
+- [x] `T039`: Matriks Interaktif 11 Aturan Incoterms 2020 & Pembagian Biaya/Risiko
+- [x] `T040`: Kalkulator Estimasi Tarif Freight (Ocean Base, BAF, CAF, PSS)
+- [x] `T041`: Kalkulator Denda Penyimpanan Pelabuhan (Demurrage & Detention Tiers)
+- [x] `T042`: Mesin Skoring Risiko Kepabeanan & Estimator Jalur Bea Cukai
 ### Fase 10: Modul Ruang Krisis & Disrupsi Logistik (/incidents)
 - [ ] `T043`: Pusat Komando Krisis & Pemantau Titik Chokepoint Maritim Global
 - [ ] `T044`: Simulator Pengalihan Rute Otonom (Komparasi Cape of Good Hope vs Suez)
