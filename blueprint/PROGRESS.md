@@ -35,10 +35,10 @@ Lacak status pengerjaan setiap task di bawah ini. Ubah `[ ]` menjadi `[x]` seger
 - [x] `T024`: Penjadwal Pemeliharaan Prediktif & Indikator Degradasi Suku Cadang
 - [x] `T025`: Modal Registrasi Unit Armada / Kendaraan Kargo Baru
 ### Fase 6: Modul Pelabuhan & 2D Yard Slotting Planner (/yard)
-- [ ] `T026`: Visual Matriks 2D Terminal Yard Kontainer Interaktif (Bay/Row/Tier)
-- [ ] `T027`: Drawer Inspektur Detail Kontainer & Label Bahaya IMDG Class
-- [ ] `T028`: Timeline Alokasi Crane Quayside (STS) & Turnaround Sandar
-- [ ] `T029`: Simulator Pemindahan & Relokasi Kontainer dari Lapangan ke Kapal
+- [x] `T026`: Visual Matriks 2D Terminal Yard Kontainer Interaktif (Bay/Row/Tier)
+- [x] `T027`: Drawer Inspektur Detail Kontainer & Label Bahaya IMDG Class
+- [x] `T028`: Timeline Alokasi Crane Quayside (STS) & Turnaround Sandar
+- [x] `T029`: Simulator Pemindahan & Relokasi Kontainer dari Lapangan ke Kapal
 ### Fase 7: Modul Pengiriman & Digital Bill of Lading (/shipments)
 - [ ] `T030`: Tabel Master Pengiriman Internasional dengan Multi-Filter & Search
 - [ ] `T031`: Wizard Pemesanan Booking Pengiriman Baru 4-Tahap & Efek Confetti
