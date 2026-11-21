@@ -40,11 +40,11 @@ Lacak status pengerjaan setiap task di bawah ini. Ubah `[ ]` menjadi `[x]` seger
 - [x] `T028`: Timeline Alokasi Crane Quayside (STS) & Turnaround Sandar
 - [x] `T029`: Simulator Pemindahan & Relokasi Kontainer dari Lapangan ke Kapal
 ### Fase 7: Modul Pengiriman & Digital Bill of Lading (/shipments)
-- [ ] `T030`: Tabel Master Pengiriman Internasional dengan Multi-Filter & Search
-- [ ] `T031`: Wizard Pemesanan Booking Pengiriman Baru 4-Tahap & Efek Confetti
-- [ ] `T032`: Drawer Pelacak Milestone Perjalanan Pengiriman Interaktif
-- [ ] `T033`: Generator Digital Bill of Lading (BoL) Standar Maritim & Mode Cetak
-- [ ] `T034`: Layanan Ekspor Rekap Pengiriman ke File Excel (.xlsx) dengan ExcelJS
+- [x] `T030`: Tabel Master Pengiriman Internasional dengan Multi-Filter & Search
+- [x] `T031`: Wizard Pemesanan Booking Pengiriman Baru 4-Tahap & Efek Confetti
+- [x] `T032`: Drawer Pelacak Milestone Perjalanan Pengiriman Interaktif
+- [x] `T033`: Generator Digital Bill of Lading (BoL) Standar Maritim & Mode Cetak
+- [x] `T034`: Layanan Ekspor Rekap Pengiriman ke File Excel (.xlsx) dengan ExcelJS
 ### Fase 8: Modul IoT Cold-Chain & Sensor Telemetry (/iot-telemetry)
 - [ ] `T035`: Laboratorium Pemantau Suhu Kontainer Reefer Live
 - [ ] `T036`: Grafik Dual-Axis Time-Series Recharts (Suhu °C, Kelembaban %, G-Shock)
