@@ -29,11 +29,11 @@ Lacak status pengerjaan setiap task di bawah ini. Ubah `[ ]` menjadi `[x]` seger
 - [x] `T019`: Gauge Indeks Kongesti Pelabuhan & Estimasi Antrean Sandar
 - [x] `T020`: Assembler Halaman Dashboard Utama Kontrol Tower
 ### Fase 5: Modul Armada & Telematika Kargo (/fleet)
-- [ ] `T021`: Halaman Daftar Armada & Filter Grid Multi-Moda
-- [ ] `T022`: Modal Telemetri Mesin Kapal & Indikator Tekanan Ballast
-- [ ] `T023`: Pelacak Hours of Service (HOS) & Kepatuhan Istirahat Nahkoda/Pengemudi
-- [ ] `T024`: Penjadwal Pemeliharaan Prediktif & Indikator Degradasi Suku Cadang
-- [ ] `T025`: Modal Registrasi Unit Armada / Kendaraan Kargo Baru
+- [x] `T021`: Halaman Daftar Armada & Filter Grid Multi-Moda
+- [x] `T022`: Modal Telemetri Mesin Kapal & Indikator Tekanan Ballast
+- [x] `T023`: Pelacak Hours of Service (HOS) & Kepatuhan Istirahat Nahkoda/Pengemudi
+- [x] `T024`: Penjadwal Pemeliharaan Prediktif & Indikator Degradasi Suku Cadang
+- [x] `T025`: Modal Registrasi Unit Armada / Kendaraan Kargo Baru
 ### Fase 6: Modul Pelabuhan & 2D Yard Slotting Planner (/yard)
 - [ ] `T026`: Visual Matriks 2D Terminal Yard Kontainer Interaktif (Bay/Row/Tier)
 - [ ] `T027`: Drawer Inspektur Detail Kontainer & Label Bahaya IMDG Class
