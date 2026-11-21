@@ -56,9 +56,9 @@ Lacak status pengerjaan setiap task di bawah ini. Ubah `[ ]` menjadi `[x]` seger
 - [x] `T041`: Kalkulator Denda Penyimpanan Pelabuhan (Demurrage & Detention Tiers)
 - [x] `T042`: Mesin Skoring Risiko Kepabeanan & Estimator Jalur Bea Cukai
 ### Fase 10: Modul Ruang Krisis & Disrupsi Logistik (/incidents)
-- [ ] `T043`: Pusat Komando Krisis & Pemantau Titik Chokepoint Maritim Global
-- [ ] `T044`: Simulator Pengalihan Rute Otonom (Komparasi Cape of Good Hope vs Suez)
-- [ ] `T045`: Modal Deklarasi Insiden Darurat & Penyiaran Peringatan Armada
+- [x] `T043`: Pusat Komando Krisis & Pemantau Titik Chokepoint Maritim Global
+- [x] `T044`: Simulator Pengalihan Rute Otonom (Komparasi Cape of Good Hope vs Suez)
+- [x] `T045`: Modal Deklarasi Insiden Darurat & Penyiaran Peringatan Armada
 ### Fase 11: Polish, Static Export, Performance & Audit
 - [ ] `T046`: Halaman Error Boundary, Cyber Radar 404 & Loading Skeleton Global
 - [ ] `T047`: Konfigurasi GitHub Pages Static Export & Penanganan .nojekyll
