@@ -1,0 +1,36 @@
+{
+  "name": "aether-os",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aether OS - Global Autonomous Supply Chain, Maritime Telematics & Port Yard Control Tower",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "deploy": "next build && npx --yes gh-pages -d out -b gh-pages --dotfiles"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "exceljs": "^4.4.0",
+    "framer-motion": "^12.23.12",
+    "lucide-react": "^0.468.0",
+    "next": "15.5.29",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "recharts": "^2.15.4",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "15.5.29",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^5.9.3"
+  }
+}
