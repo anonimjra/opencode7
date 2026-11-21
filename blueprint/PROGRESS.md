@@ -11,7 +11,7 @@ Lacak status pengerjaan setiap task di bawah ini. Ubah `[ ]` menjadi `[x]` seger
 - [x] `T004`: Helper Matematika & Algoritma Logistik Maritim
 ### Fase 2: Mock Seed Data Skala Penuh & Reaktif State
 - [x] `T005`: Kompilasi Mock Seed 12 Pelabuhan Strategis Dunia & 20 Armada Multimodal
-- [ ] `T006`: Kompilasi Mock Seed 60+ Pengiriman Internasional & Titik Rute
+- [x] `T006`: Kompilasi Mock Seed 60+ Pengiriman Internasional & Titik Rute
 - [ ] `T007`: Kompilasi Mock Seed Grid Yard 2D & Telemetri Sensor IoT Cold-Chain
 - [ ] `T008`: Store Global Zustand Reaktif & LocalStorage Synchronizer
 - [ ] `T009`: Sistem Umpan Balik Audio-Visual (Web Audio API Synthesizer & Cyber Toast)
